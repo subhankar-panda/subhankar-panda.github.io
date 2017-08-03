@@ -1,0 +1,39 @@
+body {
+	font-family: monospace;
+	background-color: #eed;
+}
+
+#content {
+	padding-top: 23%;
+}
+
+h2 {
+	font-size: 3em;
+	margin-bottom: 20px;
+}
+
+p {
+	font-family: Garamond, monospace;
+	opacity: 0.7;
+}
+
+#ucsd {
+	color: #e74c3c;
+}
+
+#ucsd:hover {
+	color: #e67e22;
+}
+
+#ccas {
+	color: #16a085;
+}
+
+#ccas:hover {
+	color: #2ecc71;
+}
+
+.col-md-9 {
+	margin-left: 10px;
+}
+
