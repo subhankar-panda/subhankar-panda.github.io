@@ -1,6 +1,6 @@
 body {
 	font-family: monospace;
-	background-color: #eed;
+	background-color: #ECF0F1;
 }
 
 #content {
@@ -37,3 +37,6 @@ p {
 	margin-left: 10px;
 }
 
+.jumbotron {
+	background-color: #ECF0F1
+}
