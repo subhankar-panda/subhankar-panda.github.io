@@ -4,12 +4,12 @@ body {
 }
 
 #content {
-	padding-top: 23%;
+	padding-top: 22%;
 }
 
 h2 {
 	font-size: 3em;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 }
 
 p {
@@ -17,26 +17,31 @@ p {
 	opacity: 0.7;
 }
 
-#ucsd {
-	color: #e74c3c;
+.links {
 }
 
-#ucsd:hover {
-	color: #e67e22;
+a {
+	color: #6C7A89;
+	text-decoration : underline;
 }
 
-#ccas {
-	color: #16a085;
+a:hover {
+	color : black;
 }
 
-#ccas:hover {
-	color: #2ecc71;
+a:visited {
+	text-decoration: underline;
+	color: #6C7A89
 }
 
 .col-md-9 {
-	margin-left: 10px;
+	margin-left: 15px;
 }
 
 .jumbotron {
 	background-color: #ECF0F1
+}
+
+span {
+	opacity: 0.9;
 }
