@@ -7,8 +7,9 @@ html {
 }
 
 body {
+	color: white;
 	font-family:  monospace;
-	background-color: #ecf0f1;
+	background-color: #000;
 }
 
 #content {
@@ -21,7 +22,7 @@ h2 {
 }
 
 p {
-	opacity: 0.7;
+	opacity: 1;
 }
 
 .links {
@@ -33,7 +34,7 @@ a {
 }
 
 a:hover {
-	color : black !important;
+	color : grey !important;
 }
 
 a:visited {
@@ -46,7 +47,7 @@ a:visited {
 }
 
 .jumbotron {
-	background-color: #ECF0F1
+	background-color: #000
 }
 
 span {
