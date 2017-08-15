@@ -31,6 +31,7 @@ a {
 
 a:hover {
 	color : grey !important;
+	cursor: pointer !important;
 }
 
 a:visited {
