@@ -26,16 +26,18 @@ p {
 
 a {
 	color: #6C7A89;
-	text-decoration : underline;
+	text-decoration : none;
 }
 
 a:hover {
 	color : grey !important;
 	cursor: pointer !important;
+	text-decoration: none;
+	opacity: 0.7;
 }
 
 a:visited {
-	text-decoration: underline;
+	text-decoration: none;
 	color: #6C7A89
 }
 
