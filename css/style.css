@@ -66,13 +66,13 @@ span {
 }
 
 .fade {
-    -webkit-animation: fadein 1s linear 1 forwards;
-    animation: fadein 1s linear 1 forwards;
+    -webkit-animation: fadein 0.8s linear 1 forwards;
+    animation: fadein 0.8s linear 1 forwards;
 }
 
 .fadeout {
-	-webkit-animation : fadeout 2s linear 1 forwards;
-    animation: fadeout 2s linear 1 forwards;
+	-webkit-animation : fadeout 0.8s linear 1 forwards;
+    animation: fadeout 0.8s linear 1 forwards;
 }
 
 @-webkit-keyframes fadein {
