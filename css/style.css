@@ -36,20 +36,24 @@ p {
 }
 
 a {
-	color: #6C7A89;
+	color: black;
 	text-decoration : none;
+	background-color: white;
+	padding-left: 3px;
+	padding-right: 3px;
 }
 
 a:hover {
-	color : grey !important;
+	color : white !important;
 	cursor: pointer !important;
+	background-color: grey;
 	text-decoration: none;
-	opacity: 0.7;
+	opacity: 1;
 }
 
 a:visited {
 	text-decoration: none;
-	color: #6C7A89
+	font-color: #6C7A89
 }
 
 .col-md-9 {
