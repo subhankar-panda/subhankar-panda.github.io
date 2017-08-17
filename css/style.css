@@ -18,13 +18,16 @@ body {
 
 h2 {
 	font-size: 4.20em;
-	margin-bottom: 35px;
+	margin-bottom: 20px;
 	font-family: 'futura-pt', sans-serif !important;
 	display: inline-block;
 	font-weight: bold;
-	border-bottom: solid;
+	border-bottom: none;
 	padding-bottom: 5px;
 	border-bottom-width: 0.12em;
+	text-shadow: 2px 2px 0px #d6d3d3, 3px 3px 0px #dedede;
+
+
 }
 
 p {
