@@ -33,7 +33,7 @@ body {
 }
 
 h2 {
-	font-size: 4.20em;
+	font-size: 4.40em;
 	margin-bottom: 18px;
 	font-family: 'futura-pt', sans-serif !important;
 	display: inline-block;
@@ -145,8 +145,13 @@ span {
 .fp-footer {
 	font-family: "futura-pt", sans-serif;
 	font-weight: bold;
-	font-size: 2.8em;
+	font-size: 3em;
 	line-height: 64%;
 }
 
+.projects-container {
+	width: 100%;
+	height: 100%;
+	top-padding : 30px;
+}
 
